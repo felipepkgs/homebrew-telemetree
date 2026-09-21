@@ -1,5 +1,5 @@
 cask "telemetree" do
-  version "1.0.0"
+  version "0.1.0"
   sha256 "0000000000000000000000000000000000000000000000000000000000000"
 
   url "https://github.com/felipepkgs/telemetree/releases/download/v#{version}/Telemetree.app.zip"
