@@ -1,6 +1,6 @@
 cask "telemetree" do
-  version "0.1.17"
-  sha256 "9eb2c7578393ef94b1c8df1c8ef8266ea70403bc5742618ad5a836a16be09643"
+  version "0.1.18"
+  sha256 "794e921a107593922b8b52edb52cd2297bf147c85deb04ca97392c0262d66ffb"
 
   url "https://github.com/felipepkgs/telemetree/releases/download/v#{version}/Telemetree.app.zip"
   name "Telemetree"
